@@ -1,4 +1,4 @@
-/// <binding AfterBuild='ngBuild' ProjectOpened='ngBuild' />
+/// <binding AfterBuild='ngBuild' />
 // <binding Clean='ngBuild' />
 module.exports = function (grunt) {
 
